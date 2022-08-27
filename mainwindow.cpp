@@ -31,7 +31,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     //pushButton : make new list
     //pushButton_2 : history of lists
-    //pushButton_3 :close Button
+    //pushButton_3 : close Button
 
 
    QApplication::setWindowIcon(QIcon(QDir::currentPath()+"/files/NIGClogo.png"));
